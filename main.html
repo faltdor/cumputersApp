@@ -1,0 +1,32 @@
+<!-- Jumbotron -->
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-md-4">
+              <img src="https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?h=350&auto=compress&cs=tinysrgb" alt="logo computer @faltdor">
+
+          </div>
+          <div class="col-md-8">
+               <h1>Computer @Faltdor and {{person}}</h1>
+                <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+                <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a>
+                </p>
+          </div>
+
+         
+        </div>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-12">
+          <h1 class="text-center">Our Services</h1>
+        </div>
+        <div ng-repeat="service in services">
+          <div class="col-lg-12">
+            <h2>{{service.name}}</h2>
+            <p>{{service.description}}</p>
+            <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+        </div>
+       
+      </div>

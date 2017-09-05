@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+    "image":"https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?h=350&auto=compress&cs=tinysrgb"
+  }, 
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+    "image":"https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?h=350&auto=compress&cs=tinysrgb"
+  },  
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+    "image":"https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?h=350&auto=compress&cs=tinysrgb"
+  },  
+  {
+    "id":4,
+    "name":"Software Repair",
+    "description":"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+    "image":"https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?h=350&auto=compress&cs=tinysrgb"
+  }  
+]
